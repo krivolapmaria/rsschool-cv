@@ -25,10 +25,12 @@ export function sum(a: number, b: number): number {
   return a + b;
 }
 ```
+# Work experience
+*Nothing yet...*
 # Education
 * **Belarusian State University of Informatics and Radioelectronics**
     * Telecommunications systems
 
 # Languages
 * **Russian** - native speaker.
-* **English** - B1
+* **English** - B1.
